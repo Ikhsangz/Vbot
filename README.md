@@ -138,7 +138,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - Saudara
 - Sahabat
 - Semua Teman
-- Lexxy Official
+- Sans yt
 - Semua Content Creator Bot
 - My Subscriber
-
